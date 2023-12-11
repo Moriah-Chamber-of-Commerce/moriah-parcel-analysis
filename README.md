@@ -1,2 +1,2 @@
-# moriah-parcel-analysis
-Analysis Information for Tax Parcels and Buusinesses in our Area
+# Moriah & Port Henry Tax Parcel Analysis
+Analysis of existing land parcels in the Moriah and Port Henry Area.  This Data will be used to better understand the land an commerical spaces avalible for development, which are publically owned, which are tax-exempt, and which are private.  This information will be utilized in the Chamber's on-going efforts to bring small business to the area and improve the overall experience and draw to the Champlain Region. 
